@@ -1,0 +1,6 @@
+{
+  "buildCommand": "cd nexura-landing && npm run build",
+  "outputDirectory": "nexura-landing/.next",
+  "installCommand": "cd nexura-landing && npm install",
+  "rootDirectory": "nexura-landing"
+}
